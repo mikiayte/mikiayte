@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mikias Ketema
 - 👀 I’m interested in MERN and MEAN stack and Data analytics
 - 🌱 I’m currently learning Google's data analytics course and doing MERN Projects
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me mikaayta@gmail.com
 
 <!---
